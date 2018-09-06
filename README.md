@@ -1,4 +1,4 @@
-# SHAMG
+ SHAMG
 ==============
 # Abstract
 This is a project template using Spring + Hibernate + AOP + Mysql + Greadle.
